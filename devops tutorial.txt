@@ -1,0 +1,2 @@
+VSTS, TFS and DevOps Tutorials
+Online tutorials for Visual Studio Team Services (VSTS), Team Foundation Server (TFS), CI/CD, Git, Agile, DevOps. Also covering Build, release management and testing tools for managers, architects, developers and testers and more.
